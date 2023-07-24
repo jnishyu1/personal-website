@@ -81,14 +81,14 @@ params:
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
 
-  # color preference
-  # color:
-  #   textColor:
-  #   secondaryTextColor:
-  #   backgroundColor:
-  #   secondaryBackgroundColor:
-  #   primaryColor:
-  #   secondaryColor:
+  color preference
+  color:
+    textColor:
+    secondaryTextColor:
+    backgroundColor: '#f8f8f8'
+    secondaryBackgroundColor:
+    primaryColor:
+    secondaryColor:
 
   #   darkmode:
   #     textColor:
