@@ -121,7 +121,7 @@ params:
     title: "Jenny Shyu."
     #subtitle: "I figure skate and love food!"
     content: "I am a math and economics student at UCSD with interest and experience  in data science, data analytics in the tech and business industry."
-    image: /images/hero.svg
+    image: /images/frontwebphoto.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
