@@ -83,9 +83,9 @@ params:
 
   color preference
   color:
-    textColor:
-    secondaryTextColor:
-    backgroundColor: '#f8f8f8'
+    textColor: black
+    secondaryTextColor: pink
+    backgroundColor: white
     secondaryBackgroundColor:
     primaryColor:
     secondaryColor:
