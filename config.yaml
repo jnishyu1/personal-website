@@ -364,13 +364,13 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: true
     socialNetworks:
       #github: https://github.com
-      linkedin: www.linkedin.com/in/jenny-shyu
+      #linkedin: www.linkedin.com/in/jenny-shyu
       #twitter: https://twitter.com
-      instagram: https://www.instagram.com/jnishyu1/
+      #instagram: https://www.instagram.com/jnishyu1/
       #facebook: https://facebook.com
 
   # List pages like blogs and posts
