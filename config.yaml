@@ -83,12 +83,12 @@ params:
 
   color preference:
   color:
-    textColor: "#38122F"
-    secondaryTextColor: "#FFFBB6 "
-    backgroundColor: "#FFF0F7"
+    textColor: "#31383F"
+    secondaryTextColor: "#DD8EA4"
+    backgroundColor: "#F2E9EB"
     secondaryBackgroundColor: "#FFD3E8"
-    primaryColor: "#F1E0AC"
-    secondaryColor: "#30475E"
+    primaryColor: "#DD8EA4"
+    secondaryColor: "#FEDD89"
 
   darkmode:
     textColor: "#F5F5F5"
