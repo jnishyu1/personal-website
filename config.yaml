@@ -76,7 +76,7 @@ params:
     # defaultTheme: "light" # dark
 
   font:
-    fontSize: 2rem # default: 1rem
+    fontSize: 1rem # default: 1rem
     fontWeight: 400 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
@@ -121,7 +121,7 @@ params:
     title: "Jenny Shyu."
     #subtitle: "I figure skate and love food!"
     content: "I am a math and economics student at UCSD with interest and experience  in data science, data analytics in the tech and business industry."
-    image: "/images/front.png"
+    image: "/images/front.png" 
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -145,7 +145,9 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/skating1.png"
+    image: 
+      - "/images/skating1.png"
+      - "/images/skating2.png"
     content: |-
       Hi I am Jenny Shyu. I am a math and economics student at UCSD. With a passion for numbers and a keen interest in data and analysis, I find joy in uncovering insights and patterns that drive informed decision-making. My fascination with the power of data and its ability to shape our understanding of the world has inspired me to pursue a career where I can leverage my analytical skills to make a meaningful impact.
 
