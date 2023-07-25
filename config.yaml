@@ -76,16 +76,16 @@ params:
     # defaultTheme: "light" # dark
 
   font:
-    fontSize: 1rem # default: 1rem
+    fontSize: 2rem # default: 1rem
     fontWeight: 400 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
 
-  color preference
+  color preference:
   color:
     textColor: "#F5F5F5"
     secondaryTextColor: "#F5F5F5"
-    backgroundColor: "#313552"
+    backgroundColor: "#f2bdcd"
     secondaryBackgroundColor: "#313552"
     primaryColor: "#F1E0AC"
     secondaryColor: "#30475E"
@@ -93,7 +93,7 @@ params:
   darkmode:
     textColor: "#F5F5F5"
     secondaryTextColor: "#F5F5F5"
-    backgroundColor: "#313552"
+    backgroundColor: "#f2bdcd"
     secondaryBackgroundColor: "#313552"
     primaryColor: "#F1E0AC"
     secondaryColor: "#30475E"
