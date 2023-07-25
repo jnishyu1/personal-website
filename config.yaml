@@ -83,12 +83,12 @@ params:
 
   color preference
   color:
-    textColor: black
-    secondaryTextColor: pink
-    backgroundColor: white
-    secondaryBackgroundColor:
-    primaryColor:
-    secondaryColor:
+    textColor: "#F5F5F5"
+    secondaryTextColor: "#F5F5F5"
+    backgroundColor: "#313552"
+    secondaryBackgroundColor: "#313552"
+    primaryColor: "#F1E0AC"
+    secondaryColor: "#30475E"
 
   #   darkmode:
   #     textColor:
