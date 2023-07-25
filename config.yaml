@@ -83,7 +83,7 @@ params:
 
   color preference:
   color:
-    textColor: "#F5F5F5"
+    textColor: "#38122F"
     secondaryTextColor: "#FFFBB6 "
     backgroundColor: "#FFF0F7"
     secondaryBackgroundColor: "#FFD3E8"
