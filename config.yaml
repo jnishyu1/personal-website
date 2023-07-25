@@ -84,9 +84,9 @@ params:
   color preference:
   color:
     textColor: "#F5F5F5"
-    secondaryTextColor: "#F5F5F5"
-    backgroundColor: "#f2bdcd"
-    secondaryBackgroundColor: "#313552"
+    secondaryTextColor: "#FFFBB6 "
+    backgroundColor: "#FFF0F7"
+    secondaryBackgroundColor: "#FFD3E8"
     primaryColor: "#F1E0AC"
     secondaryColor: "#30475E"
 
