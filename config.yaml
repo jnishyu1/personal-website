@@ -135,8 +135,10 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/jnishyu1
-        # - icon: fab fa-twitter
-          # url: https://example.com
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/jnishyu1/
+        - icon: fab fa-youtube
+          url: https://www.youtube.com/@39363936chen
       customIcons:
         # - icon: /fav.png
           # url: "https://example.com"
@@ -145,24 +147,24 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/skating1.png"
+    image: "/images/skating2.png"
  
     content: |-
       Hi I am Jenny Shyu. I am a math and economics student at UCSD. With a passion for numbers and a keen interest in data and analysis, I find joy in uncovering insights and patterns that drive informed decision-making. My fascination with the power of data and its ability to shape our understanding of the world has inspired me to pursue a career where I can leverage my analytical skills to make a meaningful impact.
 
 
+      My experience and interest in learning to lead in the technical world began before college when I was involved in a student club called Technology Student Association. There, I learned to work with a group and navigate through the tech world I was not yet familiar with, resulting in a closer bond with those around me. 
+
+
       Through the lens of my camera, I embark on a captivating journey of visual storytelling. Photography is not just a hobby for me; it is an art form that allows me to capture fleeting moments and freeze them in time. With each click, I strive to interpret the world around me in a meaningful and introspective way. Beyond the surface, I explore the depths of emotions, hidden narratives, and intricate details that often go unnoticed. This passion for capturing the essence of a moment fuels my desire to engage in complex analysis.
+
 
       For over 13 years, I have constantly pushed the limits of athleticism and artistry in the sport of figure skating. This journey has been complemented by the great honor of representing Team Chinese Taipei on the international stage. That unwavering dedication for practice and improvement continues to shape my approach as an analyst, leading with a discerning perspective and problem solving way of thinking.
 
+
       My international figure skating journey has taken me to countries like South Korea, Poland, and Canada, fostering my appreciation for diverse cultures and fueling my passion for experiencing new flavors and cuisines. As an adventurous foodie, I share my food adventures through my Instagram food blog (@yummy.diary1) whether it’s cooking my own creation or exploring restaurants. 
 
-    about:
-      enable: true
-      image: "/images/skating2.png"
-      content: |-
-        My experience and interest in learning to lead in the technical world began before college when I was involved in a student club called Technology Student Association. There, I learned to work with a group and navigate through the tech world I was not yet familiar with, resulting in a closer bond with those around me. 
-    
+   
     
     skills:
       enable: false
