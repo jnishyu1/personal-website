@@ -133,8 +133,8 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        # - icon: fab fa-github
-        #   url: https://example.com
+        - icon: fab fa-github
+          url: https://github.com/jnishyu1
         # - icon: fab fa-twitter
           # url: https://example.com
       customIcons:
