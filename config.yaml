@@ -83,7 +83,7 @@ params:
 
   color preference:
   color:
-    textColor: "#7CA1D9"
+    textColor: "#194F92"
     secondaryTextColor: "#BDD6EB"
     backgroundColor: "#F8FBF9"
     secondaryBackgroundColor: "#DDEBF5"
@@ -96,7 +96,7 @@ params:
     backgroundColor: "#f2bdcd"
     secondaryBackgroundColor: "#313552"
     primaryColor: "#F1E0AC"
-    secondaryColor: "#30475E"
+    secondaryColor: "#ECF8F7"
 
   # If you want to customize the menu, you can change it here
   navbar:
