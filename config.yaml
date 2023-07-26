@@ -56,7 +56,7 @@ params:
   title: "Jenny Shyu"
   description: Jenny Shyu's personal website
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/crown.png"
+  favicon: "/jlaptop.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -83,7 +83,7 @@ params:
 
   color preference:
   color:
-    textColor: "#194F92"
+    textColor: "#2B2E63"
     secondaryTextColor: "#BDD6EB"
     backgroundColor: "#F8FBF9"
     secondaryBackgroundColor: "#DDEBF5"
