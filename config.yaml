@@ -330,16 +330,16 @@ params:
 
       - title: Instagram Food Blog 
         content: (@yummy.diary1) a page where I showcase the art of food and its unforgettable flavors. Through enticing visuals and captivating storytelling, I explore diverse cuisines, from restaurant experiences to homemade food to paid partnerships. 
-        image: /images/projects/converter.jpg
+        image: /images/yummy.jpg
         featured:
-          name: Demo
+          name: Link to Instagram
           link: https://www.instagram.com/yummy.diary1/
         # badges:
         #   - "Capcut"
         #   - "Bootstrap"
-        # links:
-        #   - icon: fab fa-github
-        #     url: https://github.com/gurusabarish/converter
+        links:
+          - icon: fab fa-instagram
+            url: https://www.instagram.com/yummy.diary1/
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
