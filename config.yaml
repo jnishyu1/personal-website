@@ -24,9 +24,9 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
+    - identifier: projects
+      name: Projecs
+      title: Projects
       url: ''
       weight: 1
     - identifier: gallery
