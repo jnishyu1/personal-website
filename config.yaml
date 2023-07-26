@@ -311,7 +311,7 @@ params:
     items:
       - title: UES Externship + Econference Data Analysis
         content: Creating surveys to collect data after two majors events hosted by UES for the team to analyze the data using Python. Organized data visualizations through Power BI and Tableau and presented our findings and suggestions to the executive board of UES at the end of the year. 
-        image: /images/UES.png
+        image: /images/UES.jpg
         featured:
           # name: Demo
           # link: https://hugo-profile.netlify.app
@@ -328,18 +328,18 @@ params:
         #   - icon: fab fa-twitter
         #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Instagram Food Blog 
+        content: (@yummy.diary1) a page where I showcase the art of food and its unforgettable flavors. Through enticing visuals and captivating storytelling, I explore diverse cuisines, from restaurant experiences to homemade food to paid partnerships. 
         image: /images/projects/converter.jpg
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          link: https://www.instagram.com/yummy.diary1/
+        # badges:
+        #   - "Capcut"
+        #   - "Bootstrap"
+        # links:
+        #   - icon: fab fa-github
+        #     url: https://github.com/gurusabarish/converter
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
