@@ -104,8 +104,8 @@ params:
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Jenny Shyu" # Brand name for the brand | default is the title variable
-    disableSearch: true
-    # searchPlaceholder: "Search"
+    disableSearch: false
+    searchPlaceholder: "Search"
     menus:
       disableAbout: false
       disableExperience: false
@@ -151,19 +151,6 @@ params:
  
     content: |-
       Hi I am Jenny Shyu. I am a math and economics student at UCSD. With a passion for numbers and a keen interest in data and analysis, I find joy in uncovering insights and patterns that drive informed decision-making. My fascination with the power of data and its ability to shape our understanding of the world has inspired me to pursue a career where I can leverage my analytical skills to make a meaningful impact.
-
-
-      My experience and interest in learning to lead in the technical world began before college when I was involved in a student club called Technology Student Association. There, I learned to work with a group and navigate through the tech world I was not yet familiar with, resulting in a closer bond with those around me. 
-
-
-      Through the lens of my camera, I embark on a captivating journey of visual storytelling. Photography is not just a hobby for me; it is an art form that allows me to capture fleeting moments and freeze them in time. With each click, I strive to interpret the world around me in a meaningful and introspective way. Beyond the surface, I explore the depths of emotions, hidden narratives, and intricate details that often go unnoticed. This passion for capturing the essence of a moment fuels my desire to engage in complex analysis.
-
-
-      For over 13 years, I have constantly pushed the limits of athleticism and artistry in the sport of figure skating. This journey has been complemented by the great honor of representing Team Chinese Taipei on the international stage. That unwavering dedication for practice and improvement continues to shape my approach as an analyst, leading with a discerning perspective and problem solving way of thinking.
-
-
-      My international figure skating journey has taken me to countries like South Korea, Poland, and Canada, fostering my appreciation for diverse cultures and fueling my passion for experiencing new flavors and cuisines. As an adventurous foodie, I share my food adventures through my Instagram food blog (@yummy.diary1) whether it’s cooking my own creation or exploring restaurants. 
-
    
     
     skills:
@@ -204,10 +191,11 @@ params:
           content: I worked as a software developer for more than one year in Amazon.
         content: |
           For over 13 years, I have constantly pushed the limits of athleticism and artistry in the sport of figure skating. This journey has been complemented by the great honor of representing Team Chinese Taipei on the international stage. This opportunity has allowed me to travel the world to places such as Seoul, Warsaw, and Montreal. That unwavering dedication for practice and improvement continues to shape my approach as an analyst, leading with a discerning perspective and problem solving way of thinking. 
+          
           In college, I continue to share my life-long passion with fellow collegiate figure skaters as I join the UCSD figure skating team serving as the fundraising chair. 
 
 
-      - job: "Junior Software Developer"
+      - job: "Curious Adventurer"
         company: "Adventures"
         companyUrl: "https://example.com"
         date: "Jan 2020 - Aug 2020"
@@ -229,11 +217,16 @@ params:
         content: |
           As a food enthusiast, I enjoy 
 
-      - job: "Product Designer"
+      - job: "Professional Profile"
         company: "More..."
         companyUrl: "www.linkedin.com/in/jenny-shyu"
         # date: "Feb 2016 - Mar 2017"
-        content: "To see more of my past and present experiences, view my professional profile on LinkedIn!"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          url: "www.linkedin.com/in/jenny-shyu"
+        content: "To see more of my past and present experiences, view my LinkedIn profile!"
 
   # Education
   education:
