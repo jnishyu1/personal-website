@@ -150,8 +150,10 @@ params:
     image: "/images/skating2.png"
  
     content: |-
-      Hi I am Jenny Shyu. I am a math and economics student at UCSD. With a passion for numbers and a keen interest in data and analysis, I find joy in uncovering insights and patterns that drive informed decision-making. My fascination with the power of data and its ability to shape our understanding of the world has inspired me to pursue a career where I can leverage my analytical skills to make a meaningful impact.
-   
+      Born and raised in Seattle, Washington, I have grown to embrace some of the Pacific Northwest characteristics such as the coffee culture, the beautiful gifts that nature has provided, and the diverse interests that each individual possesses. 
+
+      I enjoy combining and utilizing my different interests and skills to discover a pathway. At UCSD, I study math, economics, and data science. With a passion for numbers, a keen interest in data and analysis, and skills in problem solving, I find joy in uncovering insights and patterns that drive informed decision-making. My fascination with the power of data and its ability to shape our understanding of the world has inspired me to pursue a career where I can leverage my analytical skills to make a meaningful impact. 
+
     
     skills:
       enable: false
