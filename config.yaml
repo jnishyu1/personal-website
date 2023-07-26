@@ -25,7 +25,7 @@ markup:
 Menus:
   main:
     - identifier: projects
-      name: Projecs
+      name: Projects
       title: Projects
       url: ''
       weight: 1
@@ -185,17 +185,17 @@ params:
       - job: "Undergraduate Research Assistant"
         company: "Academia"
         companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+        date: "July 2023 - present"
         featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          enable: false
+          # name: "View the project"
+          # url: "https://example.com"
+        content: "I am currently engaged in a research project that delves into the matching theory on the design of centralized school admission systems worldwide. These systems have become integral to most large school districts in the US, yet the precise workings of the assignment algorithms remain unclear. By conducting a comprehensive qualitative study by analyzing and summarizing factors such as neighborhood prioritization, sibling preferences, and application restrictions, I strive to provide a deeper understanding of the complexities involved in centralized school admissions."
 
-      - job: "Software Developer"
+      - job: "Former Team Chinese Taipei Figure Skater"
         company: "Figure Skating"
         companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+        # date: "Sep 2020 - Dec 2021"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -215,29 +215,23 @@ params:
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Recently, I went on a two week trip to Europe where I visited Italy, Turkey, Vatican City, and six islands in Greece. My memories there remain new and exciting in my mind as I have done things I never expected to do. From holding a friendly conversation with a local who speaks only in a language I aspire to learn, to walking down the cliff of Santorini with a line of donkeys, I cherish these memories close to my heart. 
 
       - job: "Social Media Food Influencer"
-        company: "Social Media Food Influencer"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+        company: "Food Influencer"
+        companyUrl: "https://www.instagram.com/yummy.diary1/"
+        date: "May 2020- Present"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.instagram.com/yummy.diary1/"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          As a food enthusiast, I enjoy 
 
       - job: "Product Designer"
-        company: "More"
+        company: "More..."
         companyUrl: "www.linkedin.com/in/jenny-shyu"
         # date: "Feb 2016 - Mar 2017"
         content: "To see more of my past and present experiences, view my professional profile on LinkedIn!"
