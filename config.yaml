@@ -108,9 +108,9 @@ params:
     # searchPlaceholder: "Search"
     menus:
       disableAbout: false
-      disableExperience: true
+      disableExperience: false
       disableEducation: true
-      disableProjects: true
+      disableProjects: false
       disableAchievements: true
       disableContact: false
 
@@ -198,15 +198,14 @@ params:
         # date: "Sep 2020 - Dec 2021"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://figureskatingucsd.wixsite.com/ucsd-figureskating"
         info:
-          enable: true
+          enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          For over 13 years, I have constantly pushed the limits of athleticism and artistry in the sport of figure skating. This journey has been complemented by the great honor of representing Team Chinese Taipei on the international stage. This opportunity has allowed me to travel the world to places such as Seoul, Warsaw, and Montreal. That unwavering dedication for practice and improvement continues to shape my approach as an analyst, leading with a discerning perspective and problem solving way of thinking. 
+          In college, I continue to share my life-long passion with fellow collegiate figure skaters as I join the UCSD figure skating team serving as the fundraising chair. 
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
 
       - job: "Junior Software Developer"
         company: "Adventures"
