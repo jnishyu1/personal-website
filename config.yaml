@@ -311,7 +311,7 @@ params:
     items:
       - title: UES Externship + Econference Data Analysis
         content: Creating surveys to collect data after two majors events hosted by UES for the team to analyze the data using Python. Organized data visualizations through Power BI and Tableau and presented our findings and suggestions to the executive board of UES at the end of the year. 
-        # image: /images/projects/profile.png
+        image: /images/UES.png
         featured:
           # name: Demo
           # link: https://hugo-profile.netlify.app
@@ -320,13 +320,13 @@ params:
           - "Pandas"
           - "PowerBI"
           - "Tableau"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+        # links:
+        #   - icon: fa fa-envelope
+        #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+        #   - icon: fab fa-github
+        #     url: https://github.com/gurusabarish/hugo-profile
+        #   - icon: fab fa-twitter
+        #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
