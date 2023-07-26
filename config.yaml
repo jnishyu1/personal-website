@@ -329,7 +329,7 @@ params:
         #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: Instagram Food Blog 
-        content: (@yummy.diary1) a page where I showcase the art of food and its unforgettable flavors. Through enticing visuals and captivating storytelling, I explore diverse cuisines, from restaurant experiences to homemade food to paid partnerships. 
+        content: (@yummy.diary1) is an ongoing project I started amidst the covid lockdown in 2020 when I discovered my inner foodie and wanted to bridging my Taiwanese roots to the rest of the world. Through enticing visuals and captivating storytelling, I explore diverse cuisines, from restaurant experiences to homemade food to paid partnerships. 
         image: /images/yummy.jpg
         featured:
           name: Link to Instagram
