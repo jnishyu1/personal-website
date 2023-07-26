@@ -120,7 +120,7 @@ params:
     intro: "Hi,"
     title: "I'm Jenny"
     #subtitle: "Welcome to my little "
-    content: "I am a math and economics student at UCSD with interest and experience in data science, data analytics in the tech and business industry."
+    content: "I am a third-year student at UCSD majoring in Math and Economics and minoring in Data Science. I have interest and experience in data science, data analytics in the tech and business industry."
     image: "/images/front.png" 
     bottomImage:
       enable: true
@@ -306,19 +306,20 @@ params:
 
   # projects
   projects:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    # title: "Projects"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: UES Externship + Econference Data Analysis
+        content: Creating surveys to collect data after two majors events hosted by UES for the team to analyze the data using Python. Organized data visualizations through Power BI and Tableau and presented our findings and suggestions to the executive board of UES at the end of the year. 
+        # image: /images/projects/profile.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          # name: Demo
+          # link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          - "Pandas"
+          - "PowerBI"
+          - "Tableau"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
