@@ -178,9 +178,9 @@ params:
         - "Express"
 
   # Experience
-  experience:
-    enable: false
-    # title: "Custom Name"
+  Currently:
+    enable: true
+    # title: "What I am up to..."
     items:
       - job: "Senior Software Developer"
         company: "Facebook"
