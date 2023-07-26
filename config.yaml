@@ -86,9 +86,9 @@ params:
     textColor: "#2B2E63"
     secondaryTextColor: "#2B2E63"
     backgroundColor: "#E8FBFF"
-    secondaryBackgroundColor: "#DDEBF5"
-    primaryColor: "#BEC3EA"
-    secondaryColor: "#B58EBC"
+    secondaryBackgroundColor: "#ABD7FF"
+    primaryColor: "#09559A"
+    secondaryColor: "#ABD7FF"
 
   darkmode:
     textColor: "#F5F5F5"
@@ -178,12 +178,12 @@ params:
         - "Express"
 
   # Experience
-  Currently:
+  experience:
     enable: true
-    # title: "What I am up to..."
+    title: "What I am up to..."
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "Undergraduate Research Assistant"
+        company: "Academia"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
@@ -193,7 +193,7 @@ params:
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Software Developer"
-        company: "Amazon"
+        company: "Figure Skating"
         companyUrl: "https://example.com"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
@@ -209,7 +209,7 @@ params:
           - Created a frontend design for a product.
 
       - job: "Junior Software Developer"
-        company: "Apple"
+        company: "Adventures"
         companyUrl: "https://example.com"
         date: "Jan 2020 - Aug 2020"
         info:
@@ -223,8 +223,8 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
+      - job: "Social Media Food Influencer"
+        company: "Social Media Food Influencer"
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
         featuredLink:
@@ -237,10 +237,10 @@ params:
           - Created a frontend design for a product.
 
       - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        company: "More"
+        companyUrl: "www.linkedin.com/in/jenny-shyu"
+        # date: "Feb 2016 - Mar 2017"
+        content: "To see more of my past and present experiences, view my professional profile on LinkedIn!"
 
   # Education
   education:
