@@ -200,7 +200,7 @@ params:
       - job: "Curious Adventurer"
         company: "Adventures"
         companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        # date: "Jan 2020 - Aug 2020"
         info:
           enable: false
         featuredLink:
