@@ -139,12 +139,11 @@ params:
           url: https://www.instagram.com/jnishyu1/
         - icon: fab fa-youtube
           url: https://www.youtube.com/@Jnishyu1
-        - icon: fab fa-linkedin
-          url: www.linkedin.com/in/jenny-shyu
+        # - icon: fab fa-linkedin
+        #   url: www.linkedin.com/in/jenny-shyu
       customIcons:
-        # - icon: /fav.png
-          # url: "https://example.com"
-
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/jenny-shyu
   # About
   about:
     enable: true
