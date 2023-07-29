@@ -23,17 +23,17 @@ markup:
       unsafe: true
 
 Menus:
-  main:
-    - identifier: projects
-      name: Projects
-      title: Projects
-      url: ''
-      weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: ''
-      weight: 2
+  # main:
+  #   - identifier: projects
+  #     name: Projects
+  #     title: Projects
+  #     url: ''
+  #     weight: 1
+  #   - identifier: gallery
+  #     name: Gallery
+  #     title: Blog posts
+  #     url: ''
+  #     weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -139,6 +139,8 @@ params:
           url: https://www.instagram.com/jnishyu1/
         - icon: fab fa-youtube
           url: https://www.youtube.com/@Jnishyu1
+        - icon: fab fa-linkedin
+          url: www.linkedin.com/in/jenny-shyu
       customIcons:
         # - icon: /fav.png
           # url: "https://example.com"
