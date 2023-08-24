@@ -213,7 +213,7 @@ params:
       - job: "Professional Profile"
         company: "More..."
         companyUrl: "www.linkedin.com/in/jenny-shyu"
-        date: "Feb 2016 - Mar 2017t"
+        date: "Feb 2016 - Mar 2017"
         featuredLink:
           enable: true
           url: "www.linkedin.com/in/jenny-shyu"
